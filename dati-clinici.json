@@ -1,0 +1,20 @@
+{
+  "eventi": [
+    {
+      "year": 2025,
+      "date": "Set 2025",
+      "cat": "hepato",
+      "title": "Eco + elastografia",
+      "summary": "Elastografia 5.5 kPa (F0–F1); microlitiasi renale sx dubbia",
+      "detail": "Disomogeneità stabile. No fibrosi. Cisti renali bilaterali ≤ 1 cm."
+    },
+    {
+      "year": 2025,
+      "date": "Ott 2025",
+      "cat": "lab",
+      "title": "Laboratorio completo",
+      "summary": "Transaminasi lievi ↑; ferritina 14; anti-HBs 5",
+      "detail": "<strong>Epatico:</strong> AST 25, ALT 23, GGT 22 (↑ lievi). Gilbert.<br><strong>Marziale:</strong> Ferritina 14 (bassa), Hb 14.1."
+    }
+  ]
+}
